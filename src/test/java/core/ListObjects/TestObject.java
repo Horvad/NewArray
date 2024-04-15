@@ -1,4 +1,4 @@
-package core.MyListObjects;
+package core.ListObjects;
 
 import java.util.Objects;
 
